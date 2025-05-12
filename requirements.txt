@@ -1,0 +1,6 @@
+langchain
+langchain-community
+crewai
+crewai_tools
+python-dotenv
+ipykernel
