@@ -49,7 +49,7 @@ A powerful trip planning application built with Crew AI and LangChain that creat
 
 ## Usage
 
-Currently user inputs are hard coded in crew.py file. So simply run: python crew.py
+Currently user inputs are hard coded in crew.py file. So simply run: ```python crew.py```
 But you can modify them by implementing streamlit for better user experience and dynamic inputs.
 
 ## How It Works
